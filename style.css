@@ -29,21 +29,8 @@ section{
 .link-2-button{
     text-decoration: none;
     background-image: linear-gradient( rgb(234, 0, 255), rgb(30, 146, 136));
-    border-radius: 5%;
+    border-radius: 15%;
     padding-left: 10px;
     padding-right: 10px;
 
-}
-.cntr-txt{
-    text-align: center;
-}
-.flw-it{
-    text-align: center;
-    padding-left: 20%;
-    padding-right: 20%;
-
-}
-#sec-3-img{
-    display: flex;
-    
 }
